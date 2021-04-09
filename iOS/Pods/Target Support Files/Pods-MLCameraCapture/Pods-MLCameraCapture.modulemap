@@ -1,0 +1,6 @@
+framework module Pods_MLCameraCapture {
+  umbrella header "Pods-MLCameraCapture-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  MLCameraCapture
+
+  Created by Wilhelm Thieme on 10/09/2019.
+  Copyright © 2019 Sogeti Nederland B.V. All rights reserved.
+*/
+
+"settings" = "Settings";
+"ok" = "Ok";
+"cancel" = "Cancel";
+"yes" = "Yes";
+"no" = "No";
+
+"cameraAuthrorisationAlertMessage" = "Please allow the use of the camera in the settings to use this feature";
+
+"zipFileName" = "Images";
+"numImages" = "%0 images";
+"squareTitle" = "Crop Square";
+"shareTitle" = "Share Images";
+"resetTitle" = "Delete Files";
+"resetWarning" = "You're about to delete all the photos. Are you sure?";
+"categoryPlaceholder" = "Category";

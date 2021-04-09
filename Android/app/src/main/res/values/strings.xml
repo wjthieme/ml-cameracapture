@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MLCameraCapture</string>
+
+    <string name="textViewPlaceholder">TextView</string>
+    <string name="category">Category</string>
+    <string name="images">%1$d Images</string>
+
+    <string name="cropSquare">Crop Square</string>
+    <string name="shareImages">Share Images</string>
+    <string name="deleteFiles">Delete Files</string>
+    <string name="imagesFilename">Images</string>
+</resources>
